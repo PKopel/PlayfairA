@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Playfair</string>
+    <string name="decoded">Otwarty tekst:</string>
+    <string name="encoded">Zaszyfrowany:</string>
+    <string name="keyword">Klucz:</string>
+    <string name="code">Zaszyfruj</string>
+    <string name="decode">Odszyfruj</string>
+    <string name="create">Stwórz macierz</string>
+    <string name="show">Pokaż macierz</string>
+</resources>
