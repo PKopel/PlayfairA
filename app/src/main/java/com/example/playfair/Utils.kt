@@ -27,3 +27,4 @@ infix operator fun <T : Comparable<T>> ClosedRange<T>.contains(n: T): Boolean {
 
 fun justChecking()=println("checked")
 
+
