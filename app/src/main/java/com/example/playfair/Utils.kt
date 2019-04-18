@@ -1,8 +1,5 @@
 package com.example.playfair
 
-import android.app.Activity
-import android.widget.Toast
-
 typealias Coords = Pair<Int, Int>
 
 fun <K, V> HashMap<K, V>.putChecked(key: K, v: V): V? {
