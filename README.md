@@ -1,1 +1,1 @@
-Android app for midified Playfair chypher
+Android app for modified Playfair chypher
